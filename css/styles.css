@@ -1,0 +1,18 @@
+.column {
+  float: left;
+  width: 23%;
+}
+.column h3 {
+  background-color: blue;
+  color:white;
+  text-shadow: 2px 2px black;
+  text-align: center;
+}
+.column p {
+  font-family:serif;
+
+}
+.column img {
+  width:300px;
+  height: 150px;
+}
